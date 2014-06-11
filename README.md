@@ -1,6 +1,6 @@
-webjars-Pikaday
+webjars-Rest
 ====================
 
-WebJar for Pikaday
+WebJar for Rest
 
-Upstream: https://github.com/dbushell/Pikaday.git
+Upstream: https://github.com/cujojs/rest.git
